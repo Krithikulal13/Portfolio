@@ -1,7 +1,6 @@
 # 🌐 Portfolio 
 
-My personal portfolio website built with *HTML* and *CSS*.  
-It showcases my skills, projects, education, internship, and contact details in a clean and responsive design.
+My personal portfolio website built with *HTML* and *CSS*. It showcases my skills, projects, education, internship, and contact details in a clean and responsive design.
 
 ---
 
