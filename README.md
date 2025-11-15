@@ -32,7 +32,6 @@ My personal portfolio website built with HTML and CSS. It showcases my skills, p
 - 🔗 Contact links to GitHub, LinkedIn, and Email   
 
 ---
-
 ## ⚙ Tech Stack
 - 🌐 HTML5 
 - 🎨 CSS3 
